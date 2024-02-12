@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginFlow</string>
+    <string name="hello">Hey There</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create an Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="terms_condition">By continuing you accept our privacy policy and terms of use</string>
+    <string name="terms_condition_header">Terms of Use</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="already_Account">Already have an account? Login</string>
+    <string name="forgotPassword">Forgot your password</string>
+</resources>
